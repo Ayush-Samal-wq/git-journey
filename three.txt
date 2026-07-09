@@ -1,1 +1,3 @@
-a3(this is the thing to fetch the change from online repo to local repo )
+a3(this is the thing to fetch the change from online repo to local repo ) 
+#we saw that to update changes in lcoal repo we gotta first fetch then megrge instead do git pull
+333(ex for git pull) pull = merge + fetch 
